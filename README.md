@@ -1,15 +1,3 @@
-# React + TypeScript + Vite
-
-This project is a React application bootstrapped with [Vite](https://vitejs.dev/) and written in [TypeScript](https://www.typescriptlang.org/). It includes modern tooling, hot module replacement (HMR), and basic configurations to get started quickly.
-
-## 🚀 Features
-
-- ⚡ Vite for fast development
-- 🔥 Hot Module Replacement (HMR)
-- ✅ TypeScript support
-- 🧪 ESLint preconfigured
-- 🎨 CSS Modules / SCSS / PostCSS ready (if needed)
-
 ## 🛠️ Setup Instructions
 
 ### 1. Clone the Repository
